@@ -10,7 +10,7 @@ jobs:
       env:
           account_sid: AC4112994764eba818ba6857e263eeb135
           auth_token: 70e292212635124d28d70d03ed7cf565
-          to_whatsapp_no: +6285321616710
+          to_whatsapp_no: +6282261289515
           message: New Push Bro
 
       uses: khaled-ibtikar/whatsapp-push-notify-action@master
