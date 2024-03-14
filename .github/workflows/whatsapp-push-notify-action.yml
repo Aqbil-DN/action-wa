@@ -8,8 +8,8 @@ jobs:
     - name: whatsapp-notify
       id: whatsapp-notify
       env:
-          account_sid: AC20e892fac5ed39ad68f311c3fbb220bb
-          auth_token: 6ccb0c98e54b82109abc1ff6c14a8e77
+          account_sid: AC4112994764eba818ba6857e263eeb135
+          auth_token: 70e292212635124d28d70d03ed7cf565
           to_whatsapp_no: +6285321616710
           message: New Push Bro
 
